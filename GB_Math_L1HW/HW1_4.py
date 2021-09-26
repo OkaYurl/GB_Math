@@ -9,7 +9,6 @@ y(k,x)=cos(k∙x), взяв для одной кривой значение k=1,
 import matplotlib.pyplot as plt
 import numpy as np
 
-# Data for plotting
 x = np.arange(-5, 5, 0.1)
 k1 = 1
 y1 = np.cos(k1 * x)
